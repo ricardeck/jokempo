@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pedra Papel Tesoura</string>
+    <string name="Perdeu">Você Perdeu</string>
+    <string name="Ganhou">Você Ganhou</string>
+    <string name="Empate">Empate</string>
+    <string name="Zero">0</string>
+    <string name="Versus">X</string>
+    <string name="NomeApp">App</string>
+    <string name="NomeUsuario">Você</string>
+    <string name="TextEscolha">Faça sua escolha</string>
+    <string name="TextVitorias">Vitorias:</string>
+    <string name="TextDerrotas">Derrotas:</string>
+    <string name="TextEmpates">Empates:</string>
+</resources>
